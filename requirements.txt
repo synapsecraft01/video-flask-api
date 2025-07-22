@@ -1,6 +1,8 @@
 flask
-opencv-python-headless
+opencv-python
 numpy
-yt-dlp
 moviepy
-imageio[ffmpeg]
+yt_dlp
+werkzeug
+imageio
+imageio-ffmpeg
